@@ -19,9 +19,9 @@
   
 4、编程语言：C# (.NET Framework 4.0框架)  
   
-5、Windows工具成品(淘宝买家订单规整工具.exe)注意事项：  
+5、注意事项：  
 1）下载和使用时请关闭杀毒软件  
 2）请勿修改文件名，否则可能会导致软件运行出错  
 3）如无法正常打开，请下载[.NET Framework 4.0](https://dotnet.microsoft.com/zh-cn/download/dotnet-framework/thank-you/net40-offline-installer)框架  
   
-5、感谢[cnlnn](https://github.com/cnlnn)和[Arctique](https://github.com/cy-arctique)对本项目的大力支持
+6、感谢[cnlnn](https://github.com/cnlnn)和[Arctique](https://github.com/cy-arctique)对本项目的大力支持

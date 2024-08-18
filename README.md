@@ -9,7 +9,8 @@
 
 1、主要功能：**《黑神话：悟空》装B专用修改器**  
   
-2、图文教程：[【C#/Shell】淘宝买家订单规整工具](https://www.zjhcofi.com/2022/12/09/get-taobao-order/)  
+2、下载途径：  
+**【Releases】** [《黑神话：悟空》八项修改器(by 夙炅月影)](https://github.com/ZJHCOFI/wukong-trainer-fake/releases/tag/v1.0)
   
 3、目录说明：  
 **【WuKong_Trainer_Fake】** 《黑神话：悟空》八项“修改器”源代码  

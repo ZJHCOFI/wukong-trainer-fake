@@ -9,7 +9,7 @@
 
 1、主要功能：**《黑神话：悟空》装B专用修改器**  
   
-2、下载途径：  
+2、成品下载地址：  
 **【Releases】** [《黑神话：悟空》八项修改器(by 夙炅月影)](https://github.com/ZJHCOFI/wukong-trainer-fake/releases/tag/v1.0)
   
 3、目录说明：  

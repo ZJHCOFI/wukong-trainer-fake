@@ -17,7 +17,7 @@
 **【WuKong_Trainer_Fake】** 《黑神话：悟空》八项“修改器”源代码  
 **【YuanShen_StartGame】** 猿神游戏启动文件源代码  
 **【LICENSE】** 开源许可文件   
-**【README.md】** 软件说明   
+**【README.md】** 项目说明   
   
 4、编程语言：C# (.NET Framework 4.0框架)  
   
